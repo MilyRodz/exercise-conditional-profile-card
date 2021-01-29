@@ -75,7 +75,8 @@ window.onload = function() {
     // this is the url of the image that will used as background for the profile cover
     background: "http://placeimg.com/300/260/nature",
     // this is the url for the profile avatar
-    avatarURL: "https://www.infoguard.ch/hubfs/dummy_woman.jpg",
+    avatarURL:
+      "https://cdn.stocksnap.io/img-thumbs/960w/woman-smelling_9CRHFTVT8V.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
